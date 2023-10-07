@@ -1,4 +1,4 @@
-image: ghcr.io/sushrut1101/docker:arch
+image: ghcr.io/cyraxvip/docker:arch
 
 variables:
   FOX_SYNC: "https://gitlab.com/OrangeFox/sync.git"
